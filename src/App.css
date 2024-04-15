@@ -1,0 +1,16 @@
+body {
+  background-image: url('https://e0.pxfuel.com/wallpapers/473/426/desktop-wallpaper-dragon-ball-z-top-quality-dragon-ball-z-background-dragon-ball-super.jpg');
+  background-size: cover;
+  background-position: center; 
+  background-repeat: no-repeat;
+}
+
+
+.buscador-title {
+  color: white;
+}
+
+
+.title {
+  color: rgb(235, 69, 69);
+}
