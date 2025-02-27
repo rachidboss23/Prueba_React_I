@@ -22,7 +22,7 @@ const MiApi = () => {
             break;
           case 1:
             character.image =
-              "https://www.geekmi.news/__export/1648482779692/sites/debate/img/2022/03/28/vegeta-majin.jpg_673822677.jpg";
+              "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2024/12/vegeta-volvera-protagonizar-portada-serie-roja-dragon-ball-super-perfil-sabio-maduro-4271704.jpg?tf=1200x";
             break;
           case 2:
             character.image =
